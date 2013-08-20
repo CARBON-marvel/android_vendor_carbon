@@ -26,6 +26,7 @@ add_lunch_combo carbon_jflteusc-userdebug
 add_lunch_combo carbon_jfltevzw-userdebug
 add_lunch_combo carbon_jfltexx-userdebug
 add_lunch_combo carbon_l900-userdebug
+add_lunch_combo carbon_marvel-userdebug
 add_lunch_combo carbon_mb886-userdebug
 add_lunch_combo carbon_m7ul-userdebug
 add_lunch_combo carbon_m7att-userdebug
